@@ -1,0 +1,5 @@
+1. Greeting page - create/join room (different buttons).
+2. Create room (admin)- an automatic 6 alphanumeric is generated as KEY for the room and a GO button to send you to the chat area.
+	-the admin has the ability to end(close) the room and everyone is kicked off
+3. Join room - a textbox for entering the pin and if it matches an open room, the send button will take you to the chat area.
+4. Every user is assigned a unique username
